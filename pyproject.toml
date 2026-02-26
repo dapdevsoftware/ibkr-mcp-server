@@ -13,6 +13,7 @@ dependencies = [
     "ib-async>=1.0.3",
     "pydantic>=2.10",
     "pydantic-settings>=2.7",
+    "yfinance>=1.2",
 ]
 
 [project.scripts]
